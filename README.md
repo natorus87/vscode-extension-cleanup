@@ -132,5 +132,4 @@ This project is released under the **MIT License** — you are free to use, modi
 
 ## 👤 Author
 **Sebastian Broers**  
-[ConbroIT Security Maintenance](https://www.conbroit.de)  
 Munich, Germany – 2025
